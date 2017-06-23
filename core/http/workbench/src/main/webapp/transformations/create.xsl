@@ -38,7 +38,7 @@
 								<option value="memory-spin">
 									In Memory Java Store with basic SPIN support
 								</option>
-								<option value="memory-spin-rdfs">
+								<option value="native-spin-rdfs">
 									In Memory Store with RDFS+SPIN support
 								</option>
 								<option value="memory-customrule">
@@ -74,6 +74,7 @@
 									SPARQL endpoint proxy
 								</option>
 								<option value="federate">Federation Store</option>
+								<option value="virtuoso">Virtuoso RDF Store</option>
 							</select>
 						</td>
 						<td></td>
